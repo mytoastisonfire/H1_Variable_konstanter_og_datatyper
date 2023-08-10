@@ -1,0 +1,8 @@
+C:\Users\matia\Desktop\TemperaturBeregneren\bin\Debug\TemperaturBeregneren.exe.config
+C:\Users\matia\Desktop\TemperaturBeregneren\bin\Debug\TemperaturBeregneren.exe
+C:\Users\matia\Desktop\TemperaturBeregneren\bin\Debug\TemperaturBeregneren.pdb
+C:\Users\matia\Desktop\TemperaturBeregneren\obj\Debug\TemperaturBeregneren.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\TemperaturBeregneren\obj\Debug\TemperaturBeregneren.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\Desktop\TemperaturBeregneren\obj\Debug\TemperaturBeregneren.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\TemperaturBeregneren\obj\Debug\TemperaturBeregneren.exe
+C:\Users\matia\Desktop\TemperaturBeregneren\obj\Debug\TemperaturBeregneren.pdb
